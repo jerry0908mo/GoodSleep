@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">早睡早起，健康生活每一天!</string>
+    <string name="app_name">早睡早起</string>
+
+    <string  name="goto_bed">我要睡觉啦</string>
+     <string  name="wake_up">我起床了</string>
+     <string name="alert">闹铃</string>
+
+
+     <string   name="good_morning">早上好！</string>
+       <string   name="good_night">晚安！</string>
+
+       <string   name="good_morning_toast">早上好～，美丽的一天开始了。</string>
+       <string   name="good_night_toast">ok,晚安，祝你好梦。</string>
+
+       <string   name="edit_btn">编辑</string>
+
+
+       <string   name="gotolist">早记录</string>
+
+       <string name="time_leave">闹铃将在 %1$d小时%2$d分钟 后响起</string>
+
+</resources>
